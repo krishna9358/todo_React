@@ -20,4 +20,5 @@ Created a web app where you can add , delete , and edit the todo list using MERN
     5. created types.js for zod input validation
     6. add all the zod validation in index.js
     7. creating mongoDB schema in db.js using mongoose library
+    8. calling these model in index.js to createtodo into database
 --> Frontend 
