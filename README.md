@@ -1,3 +1,4 @@
+
 ### Todo App Features:
 1. Login/Signup
 2. Add , edit, delete todo
@@ -15,5 +16,6 @@ Created a web app where you can add , delete , and edit the todo list using MERN
     2. install express `npm install express` Creates a new folder, 'node modules' where all dependencies files are stored.
     __Note:__ All deleted node mudules details are also there in package.json which can be re install all together using `npm install`
     3. create index.js and write basic boiler plate express code
-
+    4. zod for input validation , write input parameters roughly
+    5. created types.js for zod input validation
 --> Frontend 
