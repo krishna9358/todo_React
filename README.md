@@ -18,4 +18,6 @@ Created a web app where you can add , delete , and edit the todo list using MERN
     3. create index.js and write basic boiler plate express code
     4. zod for input validation , write input parameters roughly
     5. created types.js for zod input validation
+    6. add all the zod validation in index.js
+    7. creating mongoDB schema in db.js using mongoose library
 --> Frontend 
