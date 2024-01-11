@@ -22,3 +22,5 @@ Created a web app where you can add , delete , and edit the todo list using MERN
     7. creating mongoDB schema in db.js using mongoose library <br>
     8. calling these model in index.js to createtodo into database <br>
 --> Frontend <br>
+    1. started react project using `npm create vite@latest`
+    2. 
