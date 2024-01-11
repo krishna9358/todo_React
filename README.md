@@ -23,4 +23,10 @@ Created a web app where you can add , delete , and edit the todo list using MERN
     8. calling these model in index.js to createtodo into database <br>
 --> Frontend <br>
     1. started react project using `npm create vite@latest`
-    2. 
+    2.  install all dependencies first by `npm install`
+    3. to run the server and check the changes  `npm run dev`
+    4. created CreateTodo.jsx in src folder and made a component which works as html element for app.jsx
+    5. two part : creating todo part, rendering created todo part
+    6. style the component if you want 
+    7. create another element for rendering in Todos.jsx 
+    8. merging frontend with backend
