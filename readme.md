@@ -17,3 +17,14 @@ Backend :
 4. connecting to database. 
 
 frontend:
+1. boilerplate : npm create vite@latest
+2. npm install , isntall dependencies
+3. create components; craeting states; solving cors issues;
+4. connecting frontend to the backend
+
+
+
+Issue : 
+1. any frontend can hit the backend 
+2. didn't use useeffect hence infinite requests loops
+3. 
